@@ -1,7 +1,7 @@
 ```
 {
     "username": "SODA",
-    "age": 24,
+    "age": 22,
     "study": "sau",
 }
 ```
